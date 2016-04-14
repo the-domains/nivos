@@ -1,0 +1,28 @@
+name: nivos
+favicon: null
+layout_spectrum: 0.11526112840510905
+typography_spectrum: 0.054278045892715454
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6192147305700928
+  lightness: 0.22085719788447022
+  saturation: 0.1988575265277177
+  rhythmicContrast: 0.3720502860378474
+purpose: []
